@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working on: A community website called CommunitiFX<br>I'm looking to collaborate on: Projects with the Government of Telangana<br>I'm looking for help with: Guidance from my seniors<br>I'm currently learning: Bot building, machine learning, AI<br>Ask me about: I am a workaholic
+I'm currently working on: 
+- **Communifx**: Featuring issue reporting and tracking.
+- **Bike Navigation Device**: A GPS-enabled device for riders.
+- **National Council of Science Museums**: A chatbot and booking system with QR code e-tickets.
 
 
 ## 🌐 Socials:
