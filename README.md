@@ -34,12 +34,6 @@ const bhargav = {
         "🏅 Honorable Mention - SDG 11 IIT Hyderabad",
         "🎯 Finalist - Specathon 2024 (36-hour hackathon)"
     ],
-    currentProjects: {
-        "GSoC VLC": "AI-powered Media Recommendation Engine",
-        "Communitifx": "Issue tracking with 10,000+ reports handled",
-        "Voxera": "Real-time social platform (5,000+ users)",
-        "MediAlert": "Medicine tracking (100+ pharmacies)"
-    },
     techStack: ["React", "Next.js", "Spring Boot", "PostgreSQL", "Docker", "AI/ML"],
     funFact: "Building intelligent systems that understand user preferences! 🤖✨"
 };
@@ -187,7 +181,7 @@ const bhargav = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/AVSBharGav)
 
 ### 📧 Let's Build Something Amazing Together!
-**Email**: [your.email@example.com](mailto:your.email@example.com)  
+**Email**: [your.email@example.com](mailto:bhargavadepu@outlook.com)  
 **Portfolio**: [bhargavadepu.me](http://bhargavadepu.me)
 
 </div>
