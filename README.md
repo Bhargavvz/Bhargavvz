@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
-[![Visitor Count](https://visitcount.itsvg.in/api?id=bhargavvz&icon=2&color=12)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=bhargavvz&color=brightgreen&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -207,7 +207,7 @@ const bhargav = {
 
 <div align="center">
 
-[![Spotify](https://novatorem-bhargavvz.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://novatorem-bhargavvz.vercel.app/api/spotify)](https://open.spotify.com/user/31xpg3ahfhggtkvvwismj7ylpzgm)
 
 </div>
 
