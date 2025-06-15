@@ -157,13 +157,6 @@ const bhargav = {
 </div>
 
 ---
-
-## 🏆 Achievements & Contributions
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bhargavvz&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=4" alt="GitHub Trophies"/>
-
 ### 🌟 Highlights
 - 🚀 **25+ Projects** developed and deployed
 - 💡 **Open Source** contributor across multiple repositories  
@@ -186,7 +179,7 @@ const bhargav = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/AVSBharGav)
 
 ### 📧 Let's Build Something Amazing Together!
-**Email**: [your.email@example.com](mailto:your.email@example.com)  
+**Email**: [your.email@example.com](mailto:bhargavadepu@outlook.com)  
 **Portfolio**: [bhargavadepu.me](http://bhargavadepu.me)
 
 </div>
@@ -198,16 +191,6 @@ const bhargav = {
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
-
-## 🎵 Currently Jamming To
-
-<div align="center">
-
-[![Spotify](https://novatorem-bhargavvz.vercel.app/api/spotify)](https://open.spotify.com/user/31xpg3ahfhggtkvvwismj7ylpzgm)
 
 </div>
 
