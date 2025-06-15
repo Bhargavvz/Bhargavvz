@@ -181,7 +181,7 @@ const bhargav = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/AVSBharGav)
 
 ### 📧 Let's Build Something Amazing Together!
-**Email**: [your.email@example.com](mailto:bhargavadepu@outlook.com)  
+**Email**: [bhargavadepu@outlook.com](mailto:bhargavadepu@outlook.com)  
 **Portfolio**: [bhargavadepu.me](http://bhargavadepu.me)
 
 </div>
