@@ -18,33 +18,40 @@
 
 ```javascript
 const bhargav = {
+    name: "Adepu Vaatsava Sri Bhargav",
     location: "Warangal, India 🇮🇳",
-    role: "Passionate Developer & Innovator",
+    education: "B.Tech CSE @ CMRCET (CPI: 7.58)",
+    role: "GSoC 2025 Contributor | Full-Stack Developer",
     currentFocus: [
+        "AI-powered Media Recommendation (GSoC)",
         "Full-Stack Development",
-        "AI/ML Applications", 
-        "Community Building",
+        "Machine Learning & AI", 
         "Open Source Contributions"
     ],
-    currentlyWorking: {
-        "Communitifx": "Issue reporting & tracking platform",
-        "Bike Navigation Device": "GPS-enabled device for riders",
-        "NCSM Chatbot": "QR e-tickets & booking system",
-        "PharmaCare": "Healthcare management solution"
-    },
-    askMeAbout: [
-        "Web Development", "Mobile Apps", 
-        "System Design", "Open Source",
-        "Tech Innovation", "Community Building"
+    achievements: [
+        "🏆 Google Summer of Code 2025 - VideoLAN",
+        "🥉 2nd Runner-Up - HackByte VIT-AP (300+ teams)",
+        "🏅 Honorable Mention - SDG 11 IIT Hyderabad",
+        "🎯 Finalist - Specathon 2024 (36-hour hackathon)"
     ],
-    funFact: "I debug with console.log and I'm proud of it! 🐛✨"
+    currentProjects: {
+        "GSoC VLC": "AI-powered Media Recommendation Engine",
+        "Communitifx": "Issue tracking with 10,000+ reports handled",
+        "Voxera": "Real-time social platform (5,000+ users)",
+        "MediAlert": "Medicine tracking (100+ pharmacies)"
+    },
+    techStack: ["React", "Next.js", "Spring Boot", "PostgreSQL", "Docker", "AI/ML"],
+    funFact: "Building intelligent systems that understand user preferences! 🤖✨"
 };
 ```
 
 <div align="center">
 
 ### 🌟 Current Mission
-*"Building innovative solutions that make a real difference in people's lives"*
+*"Selected for Google Summer of Code 2025 - Building AI-powered Media Recommendation Engine for VLC"*
+
+### 🎓 Education
+**B.Tech Computer Science & Engineering** | CMRCET | **CPI: 7.58** (2022-Present)
 
 </div>
 
@@ -56,22 +63,22 @@ const bhargav = {
 
 ### Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,c,cpp,html,css,php" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,c,go,html,css" />
 </p>
 
-### Frontend Development
+### Frontend & Mobile
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,bootstrap,tailwind,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,bootstrap" />
 </p>
 
 ### Backend & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,mysql,postgres,docker" />
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express,postgresql,mongodb,mysql,firebase,supabase" />
 </p>
 
-### Tools & Platforms
+### DevOps & AI/ML
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino,linux,render" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,tensorflow,pytorch,opencv" />
 </p>
 
 </div>
@@ -86,26 +93,26 @@ const bhargav = {
 <tr>
 <td width="50%">
 
-### 🏥 PharmaCare v3
-**Healthcare Management System**
-- 💊 Comprehensive pharmacy management
-- 📱 Patient tracking & records
-- 🔐 Secure authentication system
-- **Tech:** TypeScript, React, Firebase
+### 🤖 GSoC 2025 - VLC AI Engine
+**AI-powered Media Recommendation**
+- 🎯 Selected for Google Summer of Code 2025
+- 🧠 Machine learning-based recommendations
+- 📱 Integrated into VLC Media Player
+- **Tech:** AI/ML, C++, VideoLAN
 
-[🔗 View Project](https://github.com/Bhargavvz/PharmaCare-V3)
+[🔗 View Project](https://github.com/Bhargavvz/GSoc-VLC)
 
 </td>
 <td width="50%">
 
-### 🎮 RPG Portfolio
-**Interactive Gaming Portfolio**
-- 🎯 RPG-style navigation
-- ⚡ Dynamic animations
-- 🎨 Immersive user experience
-- **Tech:** TypeScript, Three.js, WebGL
+### 🌐 Voxera Social Platform
+**Real-time Social Media Platform**
+- 👥 100+ concurrent users supported
+- 🔐 JWT & Bcrypt secure authentication
+- ⚡ 30% faster page load times
+- **Tech:** Next.js, Supabase, Socket.IO
 
-[🔗 View Project](https://github.com/Bhargavvz/RPG-Portfolio)
+[🔗 View Project](https://github.com/Bhargavvz/voxera)
 
 </td>
 </tr>
@@ -113,25 +120,25 @@ const bhargav = {
 <td width="50%">
 
 ### 🌍 Communitifx
-**Community Issue Tracking**
-- 📊 Real-time issue reporting
-- 👥 Community collaboration
-- 📈 Analytics dashboard
-- **Tech:** TypeScript, React, MongoDB
+**Community Issue Tracking Platform**
+- 📊 500+ reports handled
+- 🗺️ Color-coded maps & analytics
+- 🤖 Integrated chatbot (40% faster response)
+- **Tech:** React, Spring Boot, PostgreSQL
 
 [🔗 View Project](https://github.com/Bhargavvz/Communitifx_v2)
 
 </td>
 <td width="50%">
 
-### 🤖 Legal Doc Analysis
-**AI-Powered Document Processing**
-- 📄 Intelligent document parsing
-- 🧠 NLP-based analysis
-- ⚖️ Legal compliance checking
-- **Tech:** Python, AI/ML, NLP
+### 💊 MediAlert
+**Medicine Stock Management**
+- 🏥 5+ pharmacies supported
+- 📈 30% reduction in medicine wastage
+- ⚡ 50% improved query performance
+- **Tech:** React, Spring Boot, PostgreSQL, Redis
 
-[🔗 View Project](https://github.com/Bhargavvz/Legal.doc.analysis)
+[🔗 View Project](https://github.com/Bhargavvz/MediAlert-V2)
 
 </td>
 </tr>
@@ -157,6 +164,7 @@ const bhargav = {
 </div>
 
 ---
+
 ### 🌟 Highlights
 - 🚀 **25+ Projects** developed and deployed
 - 💡 **Open Source** contributor across multiple repositories  
@@ -171,7 +179,7 @@ const bhargav = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargavvz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bhargavadepu)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_bhargav_)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/vaatsava.adepu)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/avsbhar)
@@ -179,7 +187,7 @@ const bhargav = {
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://pinterest.com/AVSBharGav)
 
 ### 📧 Let's Build Something Amazing Together!
-**Email**: [your.email@example.com](mailto:bhargavadepu@outlook.com)  
+**Email**: [your.email@example.com](mailto:your.email@example.com)  
 **Portfolio**: [bhargavadepu.me](http://bhargavadepu.me)
 
 </div>
@@ -195,6 +203,7 @@ const bhargav = {
 </div>
 
 ---
+
 
 <div align="center">
 
