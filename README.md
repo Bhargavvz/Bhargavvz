@@ -154,6 +154,21 @@ const bhargav = {
 
 ---
 
+<!-- 🐍 CONTRIBUTION SNAKE -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Bhargavvz/Bhargavvz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Bhargavvz/Bhargavvz/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" 
+    src="https://raw.githubusercontent.com/Bhargavvz/Bhargavvz/output/github-contribution-grid-snake.svg" />
+</picture>
+
+</div>
+---
+
 ### 🌟 Highlights
 - 🚀 **25+ Projects** developed and deployed
 - 💡 **Open Source** contributor across multiple repositories  
