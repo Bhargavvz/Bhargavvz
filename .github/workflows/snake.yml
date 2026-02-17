@@ -2,16 +2,23 @@ name: Generate Contribution Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # daily update
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Generate Snake Animation
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0   # 🔑 REQUIRED to avoid non-fast-forward
+
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: Bhargavvz
@@ -19,8 +26,9 @@ jobs:
             output/github-contribution-grid-snake.svg
             output/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files
+      - name: Commit and push snake
         uses: EndBug/add-and-commit@v9
         with:
-          branch: main
+          pull: true        # 🔑 FIXES non-fast-forward
+          add: "output"
           message: "🐍 Generate contribution snake"
