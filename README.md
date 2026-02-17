@@ -167,7 +167,7 @@ const bhargav = {
 </picture>
 
 </div>
----
+
 
 ### 🌟 Highlights
 - 🚀 **25+ Projects** developed and deployed
