@@ -1,7 +1,7 @@
 <a href="https://bhargav.adepu.co.in">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-    <img alt="Bhargav Adepu — I train models and ship the software around them. AI/ML Engineer and Full-Stack Developer, AI Intern at Infosys, GSoC 2025 at VideoLAN." src="./assets/hero-light.svg" width="100%">
+    <img alt="Bhargav Adepu, I train models and ship the software around them. AI/ML Engineer and Full-Stack Developer, AI Intern at Infosys, GSoC 2025 at VideoLAN." src="./assets/hero-light.svg" width="100%">
   </picture>
 </a>
 
@@ -16,7 +16,7 @@
 
 <br>
 
-Most of my work sits at one junction: **a model that has to survive contact with a real deployment** — behind an API, inside an app somebody actually opens, on a machine that costs money to keep running.
+Most of my work sits at one junction: **a model that has to survive contact with a real deployment** behind an API, inside an app somebody actually opens, on a machine that costs money to keep running.
 
 Every number below is the number the repository reports, including the ones that aren't flattering.
 
